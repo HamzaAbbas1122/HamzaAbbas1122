@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m Hamza Abbas 👋</h1>
 
-<!--
-**HamzaAbbas1122/HamzaAbbas1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 CS Student | 💻 C++ & Web Dev Enthusiast | 🎯 Learning by Doing
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🎓 First-year Computer Science student  
+- 🧑‍💻 Skilled in **C++**, **HTML**, **CSS**, and **Qt IDE**  
+- 🌐 Exploring **Web Development** + **AI Integration**
+
+---
+
+### 🛠️ Projects
+- **VoiceTrack** – Voice-assisted expense tracker (AI-powered prototype)  
+- **Hospital Management System** – GUI-based project using Qt & C++  
+- **Awareness Pages** – Highlighting real issues using HTML/CSS  
+
+---
+
+### 📚 Learning Roadmap
+- ✅ HTML, CSS, Box & Flex Model  
+- 🔜 JavaScript → React → Firebase  
+- 📈 Git, GitHub & Deployment  
+- 💼 Freelancing on Upwork
+
+---
+
+### 📫 Let’s Connect
+- 🔗 [Instagram](https://www.instagram.com/your_username)
+- 💼 Portfolio Coming Soon!
+
+> 💡 _“Without experiments, you can’t learn.”_
+
+---
