@@ -29,7 +29,8 @@
 ---
 
 ### 📫 Let’s Connect
-- 🔗 [Instagram](https://www.instagram.com/your_username)
+- 🔗 [Instagram](https://www.instagram.com/hamza_abbas12227?igsh=bGczY2YyZGw2c3Ju)
+- 🔗 [LinkedIn}(https://www.linkedin.com/in/hamza-abbas-16241b2b0)
 - 💼 Portfolio Coming Soon!
 
 > 💡 _“Without experiments, you can’t learn.”_
